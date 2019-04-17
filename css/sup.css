@@ -1,0 +1,292 @@
+
+
+
+@media screen and (max-width:1701px){
+    .head-l {
+        margin-left: 10%;
+    }
+    .head-r{
+        margin-right: 10%;
+        width: 20%;
+    }
+    .main-form {
+        width: 30%;
+        margin-right: 5%;
+    }
+    .serv-row,.price-row,.conc-body,.def-body,.request {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .conc-right{
+        height: 55vw;
+    }
+
+
+}
+@media screen and (max-width: 1325px){
+    .head-l{
+        margin-left: 5%;
+        width: 45%;
+    }
+    .head-r{
+        margin-right: 5%;
+        width: 30%;
+    }
+    .serv-row,.price-row,.conc-body,.def-body {
+        width: 100%;
+        margin-left: 0;
+    }
+    .nav ul{
+        padding-left: 0;
+        width: 100%;
+        margin-left: 0;
+    }
+    .main-back{
+        height: 675px;
+    }
+    .main-form{
+        width: 40%;
+    }
+    .price-prod ul{
+        font-size: 14px;
+    }
+    .price-prod h3{
+        font-size: 17px;
+    }
+    .conc-right {
+        height: 75vw;
+        background-position: center;
+    }
+    .request{
+        width: 90%;
+        margin-left: 5%;
+    }
+    #tour--make_order2 input[type="text"]{
+        width: 25%;
+    }
+    .map-info{
+        width: 38%;
+    }
+    .modalDialog > div {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 1000px){
+    .head-r {
+        margin-right: 2%;
+        width: 35%;
+    }
+    .head-l {
+        margin-left: 2%;
+        width: 50%;
+    }
+    .nav li{
+        margin: 0 1%;
+    }
+    .main p:nth-child(1) {
+        font-size: 26px;
+    }
+    .main p:nth-child(2) {
+        font-size: 14px;
+    }
+    .main-form p{
+        font-size: 17px;
+    }
+    .main-form {
+        width: 50%;
+    }
+    .main-back {
+        height: 600px;
+    }
+    .service h2{
+        padding-top: 0;
+    }
+    .serv-prod{
+        width: 40%;
+        margin: 2.5% 5%;
+    }
+    .price-prod{
+        width: 40%;
+        margin: 2% 5%;
+    }
+    .price-prod img {
+        height: 285px;
+    }
+    .conc-left {
+        width: 55%;
+    }
+    .conc-right{
+        width: 44%;
+    }
+    .conc-cont{
+        margin-bottom: 15px;
+    }
+}
+@media screen and (max-width: 626px){
+    .head-l {
+        margin-left: 0;
+        width: 100%;
+    }
+    .head-r {
+        margin-top: -5%;
+        margin-right: 15%;
+        width: 100%;
+    }
+    .nav ul{
+        margin-top: 12px;
+    }
+    .nav li{
+        margin: 1% 1%;
+    }
+    .main-back{
+        background-position: 25%;
+        height: 700px;
+    }
+    .main p:nth-child(1) {
+        font-size: 20px;
+    }
+    .main p:nth-child(2) {
+        font-size: 12px;
+    }
+    .main-form {
+        margin-top: 200px;
+        width: 95%;
+    }
+    .serv-prod {
+        width: 80%;
+        margin: 5% 10%;
+    }
+    .price-prod {
+        width: 80%;
+        margin: 3% 10%;
+    }
+    .price-prod img {
+        height: 325px;
+    }
+    .conc-left {
+        width: 95%;
+    }
+    .conc-right {
+        margin-top: 20px;
+        width: 100%;
+        height: 110vw;
+    }
+    .defend{
+        margin-top: 0;
+    }
+    .def-img img{
+        width: 100%;
+    }
+    .defend li {
+        font-size: 12px;
+    }
+    #sertif .owl-carousel.two{
+        display: none;
+    }
+    #sertif .owl-carousel.one{
+        display: block;
+    }
+    .req-head h2 {
+        font-size: 28px;
+    }
+    .req-head p {
+        font-size: 14px;
+    }
+    #tour--make_order2 input[type="text"] {
+        width: 88%;
+    }
+    #tour--make_order2 input[type="submit"] {
+        width: 99%;
+    }
+    .map-left, .map-info  {
+        padding: 10px 10px;
+    }
+    .map-info{
+        margin-top: -555px;
+        margin-left: 40px;
+    }
+    .map-left h2 {
+        font-size: 14px;
+    }
+    .map-info {
+        width: 35%;
+    }
+    .map-left span {
+        font-size: 10px;
+    }
+    .map-left p {
+        font-size: 10px;
+    }
+    .conc-cont {
+        width: 70%;
+    }
+    .conc-cont p {
+        font-size: 12px;
+    }
+    .conc-cont h3 {
+        margin: 0;
+        font-size: 17px;
+    }
+    .conc-left a{
+        margin-left: 20%;
+        position: relative;
+        float: left;
+    }
+    h2   {
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 376px){
+    h2{
+        font-size: 30px;
+    }
+    .main-back {
+        background-position: 27%;
+    }
+    .price-prod {
+        width: 90%;
+        margin: 3% 5%;
+    }
+    #tour--make_order2 input[type="text"] {
+        width: 86%;
+    }
+}
+@media screen and (max-width: 321px){
+    h2{
+        font-size: 25px;
+    }
+    .head-l-p {
+        font-size: 14px;
+    }
+    .main-back {
+        background-position: 29%;
+    }
+    #tour--make_order1 p, #tour--make_order12 p {
+        font-size: 10px;
+    }
+    .price-prod {
+        width: 100%;
+        margin: 3% 0;
+    }
+    .conc-left {
+        width: 90%;
+    }
+    .conc-left a{
+        padding: 12px 25px;
+    }
+    .conc-cont{
+        margin-bottom: 0;
+    }
+    .req-head h2 {
+        font-size: 20px;
+    }
+    #tour--make_order2 input[type="text"] {
+        width: 84%;
+    }
+    #main2 {
+        margin-top: 40px;
+    }
+    .main-form p {
+        margin-top: 12px;
+    }
+}
