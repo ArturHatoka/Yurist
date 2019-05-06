@@ -72,6 +72,9 @@
     }
 }
 @media screen and (max-width: 1000px){
+    .inp-req input {
+        width: 70%;
+    }
     .head-r {
         margin-right: 2%;
         width: 35%;
@@ -123,6 +126,9 @@
     }
 }
 @media screen and (max-width: 626px){
+    .inp-req input {
+        width: 67%;
+    }
     .head-l {
         margin-left: 0;
         width: 100%;
@@ -209,7 +215,7 @@
         font-size: 14px;
     }
     .map-info {
-        width: 35%;
+        width: 40%;
     }
     .map-left span {
         font-size: 10px;
@@ -235,6 +241,15 @@
     h2   {
         font-size: 35px;
     }
+    .modalDialog > div {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .modalDialog > div {
+        width: 75%;
+    }
 }
 @media screen and (max-width: 376px){
     h2{
@@ -250,8 +265,14 @@
     #tour--make_order2 input[type="text"] {
         width: 86%;
     }
+    .modalDialog > div {
+        width: 85%;
+    }
 }
 @media screen and (max-width: 321px){
+    .modalDialog > div {
+        width: 95%;
+    }
     h2{
         font-size: 25px;
     }
